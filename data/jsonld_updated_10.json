@@ -1,0 +1,106 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ItemList",
+      "name": "Best OSHA Compliance Kits for New Hire Safety Training",
+      "url": "https://dir.querygap.com/osha-kits-for-new-hires/",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "J. J. Keller New Employee Safety Kit",
+          "url": "https://dir.querygap.com/osha-kits-for-new-hires/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/jjkeller-new-hire-kit.jpg",
+          "description": "A ready-to-go OSHA compliance kit covering essential training, PPE, and documentation for general industry new hires.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "ClickSafety OSHA 10 Online Training Bundle",
+          "url": "https://dir.querygap.com/osha-kits-for-new-hires/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/clicksafety-osha10.jpg",
+          "description": "Fully digital OSHA 10 training with printable certificate, ideal for remote onboarding or tech-savvy workplaces.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Seton OSHA Compliance Starter Pack",
+          "url": "https://dir.querygap.com/osha-kits-for-new-hires/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/seton-compliance-starter.jpg",
+          "description": "All-in-one physical toolkit for OSHA basics: signs, posters, logs, and a digital compliance guide.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "National Safety Compliance New Hire Video Kit",
+          "url": "https://dir.querygap.com/osha-kits-for-new-hires/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/nsc-osha-kit.jpg",
+          "description": "DVD + USB safety training kit covering OSHA basics, hazard communication, and first aid for new employees.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "360training OSHA 10 & PPE Package",
+          "url": "https://dir.querygap.com/osha-kits-for-new-hires/",
+          "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/360training-osha10-ppe.jpg",
+          "description": "Digital OSHA 10 training with optional PPE add-on bundle \u2014 built for scalable onboarding in construction or warehouse roles.",
+          "additionalProperty": {
+            "@type": "PropertyValue",
+            "name": "data-link",
+            "value": "pending"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do new hires need OSHA training on their first day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "While not all roles require full OSHA 10 certification immediately, OSHA mandates that employees receive appropriate safety training before exposure to workplace hazards."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should an OSHA compliance kit include for new employees?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A solid OSHA kit often includes PPE, safety orientation materials, compliance posters, hazard communication training, and certification tracking tools."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use online OSHA training to onboard warehouse or field employees?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes \u2014 many workplaces use accredited online OSHA courses, often paired with in-person walkthroughs, to meet compliance and save time."
+          }
+        }
+      ]
+    }
+  ]
+}
